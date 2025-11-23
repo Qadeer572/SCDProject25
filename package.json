@@ -1,0 +1,22 @@
+{
+  "name": "nodevault",
+  "version": "1.0.0",
+  "description": "A vault application with CRUD operations and MongoDB integration",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "vault",
+    "database",
+    "mongodb",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^7.0.0"
+  }
+}
+
